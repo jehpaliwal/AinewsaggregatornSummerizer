@@ -4,3 +4,4 @@ transformers
 requests
 torch
 python-telegram-bot
+lxml[html_clean]
