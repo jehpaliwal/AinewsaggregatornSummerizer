@@ -1,0 +1,6 @@
+python-telegram-bot==20.7
+newspaper3k
+transformers
+requests
+torch
+python-telegram-bot
